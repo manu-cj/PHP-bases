@@ -11,6 +11,8 @@
         <li><a href="ternary.php">Go to <strong>ternary</strong></a></li>
         <li><a href="unicorn.php">Go to <strong>unicorn</strong></a></li>
         <li><a href="conditions.php">Go to <strong>conditions</strong></a></li>
+        <li><a href="excuse.php">Go to <strong>excuse</strong></a></li>
+        <li><a href="array.php">Go to <strong>array</strong></a></li>
     </ul>
 </header>
 
