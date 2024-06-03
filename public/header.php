@@ -13,6 +13,8 @@
         <li><a href="conditions.php">Go to <strong>conditions</strong></a></li>
         <li><a href="excuse.php">Go to <strong>excuse</strong></a></li>
         <li><a href="array.php">Go to <strong>array</strong></a></li>
+        <li><a href="boucle.php">Go to <strong>boucle</strong></a></li>
+        <li><a href="function.php">Go to <strong>function</strong></a></li>
     </ul>
 </header>
 
