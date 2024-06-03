@@ -76,5 +76,12 @@ $randomString = "";
 
  $notUpperCase = "STOP YELLING I CAN'T HEAR MYSELF THINKING!!";
 
+
+ function calculate_cone_volume($value1, $value2) {
+    $volume = $value1 * 5 * 3.14 * $value2 * (1/3);
+echo 'The volume of a cone which ray is 5 and height is 2 = ' . $volume . ' cm<sup>3</sup><br />';
+ }
+
+ calculate_cone_volume(5, 2);
  
 ?>
